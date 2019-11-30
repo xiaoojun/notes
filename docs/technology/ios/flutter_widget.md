@@ -1,7 +1,5 @@
 # Widget简介
 
-# fjdfjdjf
-
 ## 1、概念
 
 Flutter中几乎所有的对象都是一个widget，相比原生开发中的”控件“, widget表示的概念更广泛，不仅可表示UI元素，也可以表示一些功能性的组件。如：手势检测的`GestureDetector`widget、用于APP主题数据传递的`Theme`等等
